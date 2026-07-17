@@ -1,0 +1,7 @@
+torch>=2.0
+numpy>=1.24
+transformers>=4.40
+matplotlib>=3.7
+lm-eval>=0.4.0
+accelerate>=0.28
+sentencepiece>=0.1.99
